@@ -41,5 +41,4 @@ while(R_P>epsilon)
     alpha=sum(r)/(theta(end)+Pc);
 
 end
-
 end
